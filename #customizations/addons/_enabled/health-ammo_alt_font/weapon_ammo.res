@@ -22,9 +22,9 @@
 
 	"AmmoNoClipShadow"
 	{
-		"font"			"ZH_21"
+		"font"			"ZH_51"
 		"xpos"			"-2"
 		"ypos"			"-2"
-		"zpos"			"4"
+		"zpos"			"3"
 	}
 }
