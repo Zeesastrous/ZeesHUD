@@ -1,0 +1,20 @@
+"UnlitGeneric"
+{
+	"$translucent" 1
+	"$vertexcolor" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+	"%keywords" "tf"
+	"$basetexture" "vgui/replay/thumbnails/menu/banner"
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" 0.1
+			"texturescrollangle" 0
+		}
+	}
+
+
+}

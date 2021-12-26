@@ -1,0 +1,27 @@
+"chapters"
+{
+	1	"background_adika2990"
+	2	"background_deekay"
+	3	"background_mrlight_demo"
+	4	"background_mrlight_engie"
+	5	"background_mrlight_heavy"
+	6	"background_monix"
+	7	"background_mrlight_pyro"
+	8	"background_mrlight_scout"
+	9	"background_mrlight_sniper"
+
+}
+
+"BackgroundMaps"
+{
+	1	"background_adika2990"
+	2	"background_deekay"
+	3	"background_mrlight_demo"
+	4	"background_mrlight_engie"
+	5	"background_mrlight_heavy"
+	6	"background_monix"
+	7	"background_mrlight_pyro"
+	8	"background_mrlight_scout"
+	9	"background_mrlight_sniper"
+
+}

@@ -1,0 +1,1 @@
+#base "..\..\_zeeshud_base\ingame_popups\taunt_selection.res"

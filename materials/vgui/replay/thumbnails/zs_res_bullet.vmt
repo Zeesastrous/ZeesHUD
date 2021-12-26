@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	"$translucent" 1
+	"$vertexcolor" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+	"%keywords" "tf"
+	"$color" "{255 255 255}"
+	"$basetexture" "vgui/replay/thumbnails/zs_res_bullet"
+}

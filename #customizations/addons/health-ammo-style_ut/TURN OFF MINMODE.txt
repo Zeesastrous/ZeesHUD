@@ -1,0 +1,2 @@
+This addon is still in a rough testing phase, and is NOT COMPATIBLE WITH MINMODE. 
+Please send me feedback via github!

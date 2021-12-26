@@ -1,0 +1,22 @@
+"UnlitGeneric"
+{
+	"$vertexcolor" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+	"%keywords" "tf"
+	"$blendtintbybasealpha"        "1"
+ 	"$blendtintcoloroverbase"        "0"
+ 	"$colortint_base"        "{ 255 255 255 }"
+ 	"$color2"        "{ 255 255 255 }"
+	"$basetexture" "vgui/replay/thumbnails/menu/bg"
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" 0.025
+			"texturescrollangle" 90
+		}
+	}
+}

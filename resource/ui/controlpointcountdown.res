@@ -1,0 +1,1 @@
+#base "..\..\_zeeshud_base\ingame_objectives\cp_countdown.res"

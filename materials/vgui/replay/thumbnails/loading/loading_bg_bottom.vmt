@@ -1,0 +1,18 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "vgui/replay/thumbnails/loading/loading_bg_bottom"
+	"$translucent" 1
+	"$vertexcolor" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+	"%keywords" "tf"
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" 0.18
+			"texturescrollangle" 0
+		}
+	}
+}

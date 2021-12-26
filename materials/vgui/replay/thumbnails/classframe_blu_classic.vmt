@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/replay/thumbnails/classframe_blu_classic"
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

@@ -1,0 +1,1 @@
+#base "../../_zeeshud_base/mvm/victory_splash.res"

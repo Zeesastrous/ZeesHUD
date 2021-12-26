@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/replay/thumbnails/zh_effect_minicrit"
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+	"$color" "{255 255 255}"
+}

@@ -1,0 +1,1 @@
+#base "../../_zeeshud_base/mvm/medic_revive.res"

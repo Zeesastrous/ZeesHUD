@@ -1,0 +1,18 @@
+"UnlitGeneric"
+{
+	"$translucent" 1
+	"$vertexcolor" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+	"$basetexture" "vgui/replay/thumbnails/payload/cart_blocked"
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar"		"$basetexture"
+			"animatedtextureframenumvar"	"$frame"
+			"animatedtextureframerate" 		"2"
+		}
+	}
+}
