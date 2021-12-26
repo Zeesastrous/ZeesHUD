@@ -72,8 +72,8 @@
 	{
 		"ControlName"			"EditablePanel"
 		"fieldName"				"CountAnchor"
-		"xpos"					"25"
-		"ypos"					"-4"
+		"xpos"					"20"
+		"ypos"					"0"
 		"xpos_minmode"			"10"
 		"ypos_minmode"			"-6"
 		"wide"					"0"
@@ -96,8 +96,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"ZHO_28"
-		"font_minmode"			"ZHO_24"
+		"font"					"ZHO_24"
 		"fgcolor"				"ZeesBlack"
 		
 		"pin_to_sibling"		"CountAnchor"
@@ -124,8 +123,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"ZH_25"
-		"font_minmode"			"ZH_21"
+		"font"					"ZH_22"
 		"fgcolor"				"255 255 255 255"
 
 		"pin_to_sibling"		"CountAnchor"

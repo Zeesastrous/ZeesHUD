@@ -113,14 +113,14 @@
 		"fgcolor"		"Ammo Reserve"
 		
 		"xpos"			"r210"
-		"ypos"			"r135"
+		"ypos"			"r132"
 		"zpos"			"7"
 		"wide"			"200"
 		"tall"			"100"
 		
 				
 		"xpos_minmode"	"r145"
-		"ypos_minmode"	"r95"
+		"ypos_minmode"	"r96"
 		"wide_minmode"	"200"
 		"tall_minmode"	"100"
 		

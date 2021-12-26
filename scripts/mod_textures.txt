@@ -1,3 +1,5 @@
+// NOTE : I don't know what this is for. Probably best not to touch it.
+
 "sprites/640_hud"
 {
 
