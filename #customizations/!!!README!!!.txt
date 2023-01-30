@@ -1,11 +1,11 @@
-=========================================================
+=================================================
 =	 _____                               ___ 	=
 =	/ _  / ___  ___  ___   /\  /\/\ /\  /   \	=
 =	\// / / _ \/ _ \/ __| / /_/ / / \ \/ /\ /	=
 =	 / //\  __/  __/\__ \/ __  /\ \_/ / /_// 	=
 =	/____/\___|\___||___/\/ /_/  \___/___,'  	=
 =                                         		=
-=========================================================
+=================================================
 
 HOW TO USE CUSTOMIZATIONS :
 
@@ -23,4 +23,4 @@ HOW TO USE CUSTOMIZATIONS :
 	- Some addons include a readme inside, make sure to read them!
 
 
-Feedback, bugs and suggestions : https://discord.gg/4pJeqcJYYs
+I ASSUME YOU KNOW WHAT YOU ARE DOING BY GOING HERE AND CHANGING VALUES, AS I DO NOT PROVIDE SUPPORT.
