@@ -73,7 +73,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NotBuiltLabel"
-			"font"			"FUTURA_BOLD_10"
+			"font"			"UAV_6"
 			"xpos"			"60"
 			"ypos"			"0"
 			"wide"			"200"
@@ -231,7 +231,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"BuildingLabel"
-				"font"			"FUTURA_BOLD_10"
+				"font"			"UAV_6"
 				"xpos"			"0"
 				"ypos"			"5"
 				"wide"			"200"

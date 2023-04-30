@@ -56,14 +56,14 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"PlayerStatusHealthImage"
-		"xpos"			"100" 
+		"xpos"			"cs-0.55" 
 			//	HEY ZEE, THIS IS ZEE 
 			//	REMEMBER NOT TO MOVE THIS ELEMENT'S XPOS
 			//	OR IT'LL BREAK THE FUCKING ICONS AGAIN
-		"ypos"			"0"
+		"ypos"			"rs1.193"
 		"zpos"			"0"
-		"wide"			"0"
-		"tall"			"0"
+		"wide"			"60"
+		"tall"			"60"
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"0"
@@ -73,7 +73,7 @@
 
 	}
 	
-	//the little bar that goes under the health
+	
 	"PlayerStatusHealthImageBG2"
 	{
 		"ControlName"	"CTFImagePanel"
@@ -85,10 +85,10 @@
 		"wide"			"150"
 		"tall"			"35"
 		
-		"xpos_minmode"	"80"
-		"ypos_minmode"	"r40"
-		"wide_minmode"	"135"
-		"tall_minmode"	"20"
+		"xpos_minmode"	"cs-0.5"
+		"ypos_minmode"	"rs1.1"
+		"wide_minmode"	"250"
+		"tall_minmode"	"72"
 		
 		
 		"visible"		"1"
@@ -112,17 +112,12 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
 		
-		"xpos"			"160"
-		"ypos"			"r175"
+		"xpos"			"cs-1.45"
+		"ypos"			"rs1.36"
 		"zpos"			"0"
-		"wide"			"60"
+		"wide"			"85"
 		"tall"			"60"
-		
-		"xpos_minmode"	"105"
-		"ypos_minmode"	"r120"
-		"wide_minmode"	"48"
-		"tall_minmode"	"48"
-		
+
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"replay/thumbnails/lowhp"
@@ -161,22 +156,17 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
 		
-		"xpos"			"105"
-		"ypos"			"r140"
+		"xpos"			"cs-1.45"
+		"ypos"			"rs0.96"
 		"zpos"			"5"
-		"wide"			"240"
+		"wide"			"100"
 		"tall"			"100"
-		"font"			"ZH_51"
-		
-		"xpos_minmode"	"40"
-		"ypos_minmode"	"r105"
-		"wide_minmode"	"240"
-		"tall_minmode"	"100"
+		"font"			"ZH_56"
 		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
-		"textAlignment"	"center"
+		"textAlignment"	"east"
 
 		"fgcolor"		"Health Text"
 	}
@@ -186,17 +176,18 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueShadow"
 		
-		"xpos"			"-1"
-		"ypos"			"-1"
-		"zpos"			"6"
-		"wide"			"240"
+		"xpos"			"0"
+		"ypos"			"s-0.03"
+		"zpos"			"4"
+		"wide"			"100"
 		"tall"			"100"
-		"font"			"ZHO_56"
+		
+		"font"			"ZH_56"
 		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
-		"textAlignment"	"center"
+		"textAlignment"	"east"
 		"fgcolor"		"Health Text Shadow"
 
 		"pin_to_sibling"		"PlayerStatusHealthValue"
@@ -218,11 +209,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"PlayerStatusAnchor"
-		"xpos"			"100"
-		"ypos"			"r140"
-		
-		"xpos_minmode"	"50"
-		"ypos_minmode"	"r100"
+		"xpos"			"-70"
+		"ypos"			"rs6.8"
 		
 		"wide"			"16"
 		"tall"			"16"

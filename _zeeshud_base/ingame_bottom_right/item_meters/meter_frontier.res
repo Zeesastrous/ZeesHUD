@@ -5,7 +5,8 @@
 
 	"ItemEffectMeterBar"
 	{
-		"teambg_2"		"replay/thumbnails/counter_crit_red"
-		"teambg_3"		"replay/thumbnails/counter_crit_blu"
+		"image"			"replay/thumbnails/counter_crit"
+		"teambg_2"		"replay/thumbnails/counter_crit"
+		"teambg_3"		"replay/thumbnails/counter_crit"
 	}
 }

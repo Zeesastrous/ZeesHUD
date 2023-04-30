@@ -1,20 +1,16 @@
 "Resource/UI/HudAmmoWeapons.res"
 {
+	//completely useless, should remove
 	"HudWeaponAmmoBG"
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"HudWeaponAmmoBG"
 		
-		"xpos"			"r170"
-		"ypos"			"r116"
+		"xpos"			"r100"
+		"ypos"			"r80"
 		"zpos"			"-4"
-		"wide"			"100"
-		"tall"			"100"
-		
-		"xpos_minmode"	"r100"
-		"ypos_minmode"	"r80"
-		"wide_minmode"	"80"
-		"tall_minmode"	"80"
+		"wide"			"80"
+		"tall"			"80"
 		
 		"visible"		"0"
 		"enabled"		"0"
@@ -24,6 +20,7 @@
 		"teambg_2"		"replay/thumbnails/am_bg_red"
 		"teambg_3"		"replay/thumbnails/am_bg_blu"
 	}
+	//ditto
 	"HudWeaponAmmoBG2"
 	{
 		"ControlName"	"CTFImagePanel"
@@ -40,8 +37,8 @@
 		"wide_minmode"			"125"
 		"tall_minmode"			"28"
 		
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"replay/thumbnails/ammo_underbar"
 		"scaleImage"		"1"
 	}
@@ -50,34 +47,31 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"HudWeaponLowAmmoImage"
-		"xpos"			"r245"
-		"ypos"			"r177"
+		"xpos"			"cs0.49"
+		"ypos"			"rs1.31"
 		"zpos"			"0"
-		"wide"			"64"
-		"tall"			"64"
+		"wide"			"p0.1"
+		"tall"			"o0.75"
 		"visible"		"0"
 		"enabled"		"1"
-		"image"			"replay/thumbnails/lowammo"
+		"image"			"replay/thumbnails/lowhp"
 		"scaleImage"	"1"	
-		"teambg_2"		"replay/thumbnails/lowammo"
-		"teambg_3"		"replay/thumbnails/lowammo"
+		"teambg_2"		"replay/thumbnails/lowhp"
+		"teambg_3"		"replay/thumbnails/lowhp"
 	}
 
 	"AmmoInClip"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClip"
-		"font"			"ZH_51"
+		"font"			"ZH_56"
 		"fgcolor"		"Ammo Clip"
 		
-		"xpos"			"r415"
-		"ypos"			"r140"
+		"xpos"			"cs0"
+		"ypos"			"rs0.96"
 		"zpos"			"5"
-		"wide"			"200"
+		"wide"			"100"
 		"tall"			"100"
-		
-		"xpos_minmode"			"r350"
-		"ypos_minmode"			"r100"
 		
 		"visible"		"1"
 		"enabled"		"1"
@@ -88,12 +82,12 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClipShadow"
-		"font"			"ZHO_56"
+		"font"			"ZH_56"
 		"fgcolor"		"Ammo Clip Shadow"
 		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"6"
-		"wide"			"200"
+		"ypos"			"s-0.03"
+		"zpos"			"4"
+		"wide"			"100"
 		"tall"			"100"
 		"visible"		"1"
 		"enabled"		"1"
@@ -109,20 +103,16 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserve"
-		"font"			"ZH_21"
+		"font"			"ZH_24"
 		"fgcolor"		"Ammo Reserve"
 		
-		"xpos"			"r210"
-		"ypos"			"r132"
+		"xpos"			"cs1"
+		"ypos"			"rs1.98"
 		"zpos"			"7"
-		"wide"			"200"
-		"tall"			"100"
+		"wide"			"100"
+		"tall"			"40"
 		
-				
-		"xpos_minmode"	"r145"
-		"ypos_minmode"	"r96"
-		"wide_minmode"	"200"
-		"tall_minmode"	"100"
+		"textinsetx"	"3"
 		
 		"visible"		"0"
 		"enabled"		"1"
@@ -133,15 +123,16 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserveShadow"
-		"font"			"ZHO_24"
+		"font"			"ZH_24"
 		"fgcolor"		"Ammo Reserve Shadow"
 		
 		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"8"
-		"wide"			"f0"
-		"tall"			"100"
+		"ypos"			"s-0.03"
+		"zpos"			"6"
+		"wide"			"100"
+		"tall"			"40"
 
+		"textinsetx"	"3"
 		
 		"visible"		"0"
 		"enabled"		"1"
@@ -157,40 +148,39 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClip"
-		"font"			"ZH_51"
+		"font"			"ZH_56"
 		"fgcolor"		"Ammo Clip"
 		
-		"xpos"			"r290"
-		"ypos"			"r140"
-		"zpos"			"4"
-		"wide"			"150"
+		"xpos"			"cs0.45"
+		"ypos"			"rs0.96"
+		"zpos"			"5"
+		"wide"			"100"
 		"tall"			"100"
 		
-		"xpos_minmode"	"r220"
-		"ypos_minmode"	"r100"
-		"wide_minmode"	"150"
-		"tall_minmode"	"100"
-		
+		"textinsetx"	"6"
 		
 		"visible"		"0"
 		"enabled"		"1"
-		"textAlignment"	"center"
+		"textAlignment"	"west"
 		"labelText"		"%Ammo%"
 	}
 	"AmmoNoClipShadow"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClipShadow"
-		"font"			"ZHO_56"
+		"font"			"ZH_56"
 		"fgcolor"		"Ammo Clip Shadow"
-		"xpos"			"-1"
-		"ypos"			"-1"
+		"xpos"			"0"
+		"ypos"			"s-0.03"
 		"zpos"			"5"
-		"wide"			"150"
+		"wide"			"100"
 		"tall"			"100"
+		
+		"textinsetx"	"6"
+		
 		"visible"		"0"
 		"enabled"		"1"
-		"textAlignment"	"center"
+		"textAlignment"	"west"
 		"labelText"		"%Ammo%"
 
 		"pin_to_sibling"		"AmmoNoClip"

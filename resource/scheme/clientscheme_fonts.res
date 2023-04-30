@@ -4,403 +4,157 @@ Scheme
 	{
 		// CUSTOM
 		
-		// CIKANDEI
-		"CIKANDEI_56"
-		{
-			"1"
-			{
-				"name"			"CIKANDEI"
-				"tall" 		 	"56"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-		"CIKANDEI_48"
-		{
-			"1"
-			{
-				"name"			"CIKANDEI"
-				"tall" 		 	"48"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-		"CIKANDEI_36"
-		{
-			"1"
-			{
-				"name"			"CIKANDEI"
-				"tall" 		 	"36"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-		"CIKANDEI_32"
-		{
-			"1"
-			{
-				"name"			"CIKANDEI"
-				"tall" 		 	"32"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-		"CIKANDEI_24"
-		{
-			"1"
-			{
-				"name"			"CIKANDEI"
-				"tall" 		 	"24"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-		
 		// ZEESHUD NUMBERS
+		
 		"ZH_56"
 		{
 			"1"
 			{
-				"name"			"zeesHUDNumbers"
+				"name"			"ZeesHudCompNumbers"
 				"tall" 		 	"56"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
 		
-		"ZH_51"
-		{
-			"1"
-			{
-				"name"			"zeesHUDNumbers"
-				"tall" 		 	"51"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-		"ZH_50"
-		{
-			"1"
-			{
-				"name"			"zeesHUDNumbers"
-				"tall" 		 	"50"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-		"ZH_48"
-		{
-			"1"
-			{
-				"name"			"zeesHUDNumbers"
-				"tall" 		 	"44"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-		"ZH_36"
-		{
-			"1"
-			{
-				"name"			"zeesHUDNumbers"
-				"tall" 		 	"32"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-		"ZH_32"
-		{
-			"1"
-			{
-				"name"			"zeesHUDNumbers"
-				"tall" 		 	"32"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-		"ZH_30"
-		{
-			"1"
-			{
-				"name"			"zeesHUDNumbers"
-				"tall" 		 	"30"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-		"ZH_29"
-		{
-			"1"
-			{
-				"name"			"zeesHUDNumbers"
-				"tall" 		 	"29"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-		"ZH_28"
-		{
-			"1"
-			{
-				"name"			"zeesHUDNumbers"
-				"tall" 		 	"28"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-		"ZH_25"
-		{
-			"1"
-			{
-				"name"			"zeesHUDNumbers"
-				"tall" 		 	"25"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
 		"ZH_24"
 		{
 			"1"
 			{
-				"name"			"zeesHUDNumbers"
-				"tall" 		 	"24"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-		"ZH_22"
-		{
-			"1"
-			{
-				"name"			"zeesHUDNumbers"
-				"tall" 		 	"22"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-		"ZH_21"
-		{
-			"1"
-			{
-				"name"			"zeesHUDNumbers"
-				"tall" 		 	"21"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-		"ZH_20"
-		{
-			"1"
-			{
-				"name"			"zeesHUDNumbers"
-				"tall" 		 	"20"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-		
-		//OUTLINE
-		
-		"ZHO_56"
-		{
-			"1"
-			{
-				"name"			"zeesHUDNumbersOutline"
-				"tall" 		 	"56"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-		"ZHO_48"
-		{
-			"1"
-			{
-				"name"			"zeesHUDNumbersOutline"
-				"tall" 		 	"48"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-		"ZHO_36"
-		{
-			"1"
-			{
-				"name"			"zeesHUDNumbersOutline"
-				"tall" 		 	"36"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-		"ZHO_32"
-		{
-			"1"
-			{
-				"name"			"zeesHUDNumbersOutline"
-				"tall" 		 	"32"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-		"ZHO_28"
-		{
-			"1"
-			{
-				"name"			"zeesHUDNumbersOutline"
-				"tall" 		 	"28"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-		"ZHO_24"
-		{
-			"1"
-			{
-				"name"			"zeesHUDNumbersOutline"
+				"name"			"ZeesHudCompNumbers"
 				"tall" 		 	"24"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
 		
-		// ROAD RAGE (addon)
-		"ROADRAGE_56"
+		//UAV MONO
+		"UAV_56"
 		{
 			"1"
 			{
-				"name"			"RoadRage"
+				"name"			"UAV OSD Sans Mono"
 				"tall" 		 	"56"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"ROADRAGE_48"
+		"UAV_48"
 		{
 			"1"
 			{
-				"name"			"RoadRage"
+				"name"			"UAV OSD Sans Mono"
 				"tall" 		 	"48"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"ROADRAGE_36"
+		"UAV_40"
 		{
 			"1"
 			{
-				"name"			"RoadRage"
-				"tall" 		 	"36"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-		"ROADRAGE_32"
-		{
-			"1"
-			{
-				"name"			"RoadRage"
-				"tall" 		 	"32"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-		
-		// GAMERIA
-		"GAMERIA_56"
-		{
-			"1"
-			{
-				"name"			"GAMERIA"
-				"tall" 		 	"56"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-		"GAMERIA_48"
-		{
-			"1"
-			{
-				"name"			"GAMERIA"
-				"tall" 		 	"48"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-		"GAMERIA_40"
-		{
-			"1"
-			{
-				"name"			"GAMERIA"
+				"name"			"UAV OSD Sans Mono"
 				"tall" 		 	"40"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"GAMERIA_36"
+		"UAV_36"
 		{
 			"1"
 			{
-				"name"			"GAMERIA"
+				"name"			"UAV OSD Sans Mono"
 				"tall" 		 	"36"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"GAMERIA_32"
+		"UAV_32"
 		{
 			"1"
 			{
-				"name"			"GAMERIA"
+				"name"			"UAV OSD Sans Mono"
 				"tall" 		 	"32"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"GAMERIA_24"
+		"UAV_24"
 		{
 			"1"
 			{
-				"name"			"GAMERIA"
+				"name"			"UAV OSD Sans Mono"
 				"tall" 		 	"24"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"GAMERIA_16"
+		"UAV_16"
 		{
 			"1"
 			{
-				"name"			"GAMERIA"
+				"name"			"UAV OSD Sans Mono"
 				"tall" 		 	"16"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"GAMERIA_12"
+		"UAV_14"
 		{
 			"1"
 			{
-				"name"			"GAMERIA"
+				"name"			"UAV OSD Sans Mono"
+				"tall" 		 	"14"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"UAV_12"
+		{
+			"1"
+			{
+				"name"			"UAV OSD Sans Mono"
 				"tall" 		 	"12"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"GAMERIA_10"
+		"UAV_10"
 		{
 			"1"
 			{
-				"name"			"GAMERIA"
+				"name"			"UAV OSD Sans Mono"
 				"tall" 		 	"10"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"GAMERIA_8"
+		"UAV_8"
 		{
 			"1"
 			{
-				"name"			"GAMERIA"
+				"name"			"UAV OSD Sans Mono"
 				"tall" 		 	"8"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"UAV_6"
+		{
+			"1"
+			{
+				"name"			"UAV OSD Sans Mono"
+				"tall" 		 	"6"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"UAV_4"
+		{
+			"1"
+			{
+				"name"			"UAV OSD Sans Mono"
+				"tall" 		 	"4"
 				"additive"		"0"
 				"antialias"		"1"
 			}
@@ -3221,13 +2975,13 @@ Scheme
 		}
 		"8"
 		{
-			"font"	"resource/fonts/CIKANDEI.ttf"
-			"name"	"CIKANDEI"
+			"font"	"resource/fonts/ZeesHudCompNumbers.otf"
+			"name"	"ZeesHudCompNumbers"
 		}
 		"9"
 		{
-			"font"	"resource/fonts/GAMERIA.ttf"
-			"name"	"GAMERIA"
+			"font"	"resource/fonts/UAV-OSD-Sans-Mono.ttf"
+			"name"	"UAV OSD Sans Mono"
 		}
 		"10"
 		{
@@ -3292,13 +3046,8 @@ Scheme
 		}
 		"11"
 		{
-			"font"	"resource/fonts/zeesHUDNumbers.ttf"
-			"name"	"zeesHUDNumbers"
-		}
-		"12"
-		{
-			"font"	"resource/fonts/zeesHUDNumbersOutline.ttf"
-			"name"	"zeesHUDNumbersOutline"
+			"font"	"resource/fonts/CompactaStdBold.otf"
+			"name"	"CompactaStd-Bold"
 		}
 	}
 }

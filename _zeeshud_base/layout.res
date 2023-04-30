@@ -29,7 +29,7 @@
 		"fieldName" 		"HudObjectiveStatus"
 		"visible" 			"1"
 		"enabled" 			"1"
-		"xpos"				"0"
+		"xpos"				"rs0.63"
 		"ypos"				"0"
 		"wide"				"f0"
 		"tall"				"480"
@@ -168,16 +168,11 @@
 	CHudAccountPanel
 	{
 		"fieldName"				"CHudAccountPanel"
-		"xpos"					"r212"
-		"ypos"					"r67"
+		"xpos"					"cs-0.5"
+		"ypos"					"rs8"
 		"zpos"					"0"
-		"wide"					"100"
-		"tall"  				"70"
-		
-		"xpos_minmode"			"r135"
-		"ypos_minmode"			"r30"
-		"wide_minmode"			"100"
-		"tall_minmode"  		"56"
+		"wide"					"65"
+		"tall"					"16"
 		
 		"visible" 				"1"
 		"enabled" 				"1"
@@ -187,9 +182,9 @@
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"120"
+		"xpos"					"cs-1.9"
 		"ypos"					"r165"
-		"wide"					"250"
+		"wide"					"50"
 		"tall"  				"120"
 		"visible" 				"1"
 		"enabled" 				"1"
@@ -280,10 +275,10 @@
 		"fieldName" 			"BuildingStatus_Engineer"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"-10"
-		"ypos"					"0"
-		"wide"					"640"
-		"tall"					"480"
+		"xpos"					"s0.55"
+		"ypos"					"rs1.1"
+		"wide"					"125"
+		"tall"					"150"
 		"PaintBackgroundType"	"2"
 	}
 

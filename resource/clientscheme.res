@@ -1,4 +1,4 @@
-#base "../#customizations/custom_colors.res"
+#base "../#custom/custom_colors.res"
 
 #base "scheme/clientscheme_borders.res"
 #base "scheme/clientscheme_colors.res"

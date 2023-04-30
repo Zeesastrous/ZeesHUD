@@ -6,12 +6,10 @@
 		"fieldName"				"HudItemEffectMeter"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"135"
-		"xpos_minmode"			"65"
-		"ypos"					"r60"
-		"ypos_minmode"			"r30"
-		"wide"					"90"
-		"tall"					"80"
+		"xpos"					"cs-1.2"
+		"ypos"					"rs0.8"
+		"wide"					"60"
+		"tall"					"40"
 		"MeterFG"				"White"
 		"MeterBG"				"Gray"
 	}
@@ -46,25 +44,9 @@
 		"wide_minmode"			"40"
 		"tall"					"30"
 		"tall_minmode"			"20"
-		"visible"				"1"
-		"enabled"				"1"
+		"visible"				"0"
+		"enabled"				"0"
 		"image"        "replay/thumbnails/killstreak_bg"
-		"drawcolor"		"ZeesMain"
-	}
-	"ItemEffectMeterOVL"
-	{
-		"ControlName"			"CTFImagePanel"
-		"fieldName"				"ItemEffectMeterBG"
-		"xpos"					"25"
-		"ypos"					"8"
-		"zpos"					"3"
-		"wide"					"60"
-		"wide_minmode"			"40"
-		"tall"					"30"
-		"tall_minmode"			"20"
-		"visible"				"1"
-		"enabled"				"1"
-		"image"        "replay/thumbnails/killstreak_ovl"
 		"drawcolor"		"ZeesMain"
 	}
 	
@@ -88,47 +70,54 @@
 		"zpos"					"2"
 		"wide"					"60"
 		"tall"					"40"
+		
+		"textinsetx"			"20"
+		
 		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"labelText"				"%progresscount%"
-		"textAlignment"			"center"
+		"textAlignment"			"east"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"ZHO_24"
-		"fgcolor"				"ZeesBlack"
+		"font"					"UAV_14"
+		"fgcolor"				"ZeesWhite"
 		
 		"pin_to_sibling"		"CountAnchor"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 	
-	"ItemEffectMeterCountShadow"
-	{
-		"ControlName"			"CExLabel"
-		"fieldName"				"ItemEffectMeterCountShadow"
-		"xpos"					"0"
-		"xpos_minmode"			"0"
-		"ypos"					"0"
-		"ypos_minmode"			"0"
-		"zpos"					"2"
-		"wide"					"60"
-		"tall"					"40"
-		"pinCorner"				"2"
-		"visible"				"1"
-		"enabled"				"1"
-		"tabPosition"			"0"
-		"labelText"				"%progresscount%"
-		"textAlignment"			"center"
-		"dulltext"				"0"
-		"brighttext"			"0"
-		"font"					"ZH_22"
-		"fgcolor"				"255 255 255 255"
+	// "ItemEffectMeterCountShadow"
+	// {
+		// "ControlName"			"CExLabel"
+		// "fieldName"				"ItemEffectMeterCountShadow"
+		// "xpos"					"0"
+		// "ypos"					"-2"
+		// "zpos"					"2"
+		// "wide"					"60"
+		// "tall"					"40"
+		
+		// "textinsetx"			"20"
+		
+		// "pinCorner"				"2"
+		// "visible"				"1"
+		// "enabled"				"1"
+		// "tabPosition"			"0"
+		// "labelText"				"%progresscount%"
+		// "textAlignment"			"east"
+		// "dulltext"				"0"
+		// "brighttext"			"0"
+		// "font"					"UAV_16"
+		
+		
+		
+		// "fgcolor"				"255 255 255 255"
 
-		"pin_to_sibling"		"CountAnchor"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
-	}
+		// "pin_to_sibling"		"CountAnchor"
+		// "pin_corner_to_sibling"	"PIN_TOPLEFT"
+		// "pin_to_sibling_corner"	"PIN_TOPLEFT"
+	// }
 
 }

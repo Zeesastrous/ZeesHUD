@@ -25,10 +25,10 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"			"LevelBar"
-		"xpos"				"c-100"
+		"xpos"				"c-85"
 		"ypos"				"130"
 		"zpos"				"0"
-		"wide"				"200"
+		"wide"				"130"
 		"tall"				"10"
 		"visible"			"1"
 		"enabled"			"1"
@@ -38,7 +38,7 @@
 
 		"if_multiple_trains"
 		{
-			"ypos"			"114"
+			"ypos"			"115"
 			"zpos"			"3"
 			"tall"			"10"
 			"image"			"replay/thumbnails/payload/cart_track"
@@ -46,9 +46,14 @@
 
 		"if_single_with_hills"
 		{
-			"ypos"			"131"
-			"tall"			"8"
+			"ypos"			"115"
+			"tall"			"10"
 			"image"			"replay/thumbnails/payload/cart_track"
+		}
+		
+		"if_multiple_trains_bottom"
+		{
+			"ypos"			"103"
 		}
 	}
 
@@ -109,7 +114,7 @@
 		{
 			"ypos"			"9999"
 			"zpos"			"6"
-			"tall"			"8"
+			"tall"			"20"
 			"visible"		"1"
 		}
 	}
@@ -118,18 +123,18 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"			"HomeCPIcon"
-		"xpos"				"c-115"
-		"ypos"				"123"
+		"xpos"				"c-90"
+		"ypos"				"129"
 		"zpos"				"2"
-		"wide"				"26"
-		"tall"				"26"
+		"wide"				"11"
+		"tall"				"11"
 		"autoResize"		"0"
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
 		"labelText"			""
-		"image"				"replay/thumbnails/payload/cart_point_blue"
+		"image"				"replay/thumbnails/payload/cart_track"
 		"scaleImage"		"1"
 
 		"if_team_red"
@@ -149,10 +154,9 @@
 
 		"if_multiple_trains"
 		{
-			"xpos"			"c-106"
+			
 			"zpos"			"4"
-			"wide"			"14"
-			"tall"			"14"
+			
 			"image"			"replay/thumbnails/payload/cart_track"
 		}
 
@@ -163,7 +167,7 @@
 
 		"if_multiple_trains_bottom"
 		{
-			"ypos"			"113"
+			"ypos"			"100"
 		}
 
 		"if_multiple_trains_red"
@@ -182,10 +186,10 @@
 		"ControlName"		"ImagePanel"
 		"fieldName"			"SimpleControlPointTemplate"
 		"xpos"				"30"
-		"ypos"				"121"
+		"ypos"				"139"
 		"zpos"				"2"
-		"wide"				"26"
-		"tall"				"26"
+		"wide"				"11"
+		"tall"				"11"
 		"autoResize"		"0"
 		"pinCorner"			"0"
 		"visible"			"0"
@@ -197,7 +201,7 @@
 
 		"if_multiple_trains"
 		{
-			"xpos"				"32"
+			
 			"zpos"			"5"
 			"wide"			"14"
 			"tall"			"14"
@@ -237,9 +241,9 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"RecedeTime"
-			"font"			"FUTURA_BOLD_12"
-			"xpos"			"32"
-			"ypos"			"66"
+			"font"			"UAV_8"
+			"xpos"			"20"
+			"ypos"			"76"
 			"zpos"			"5"
 			"wide"			"15"
 			"tall"			"8"
@@ -254,7 +258,7 @@
 
 			"if_multiple_trains"
 			{
-				"font"		"FUTURA_BOLD_12"
+				"font"		"UAV_8"
 				"xpos"		"17"
 				"wide"		"18"
 				"tall"		"10"
@@ -275,11 +279,11 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"EscortItemImage"
-			"xpos"			"25"
-			"ypos"			"77"
+			"xpos"			"21"
+			"ypos"			"87"
 			"zpos"			"1"
-			"wide"			"30"
-			"tall"			"30"
+			"wide"			"15"
+			"tall"			"23"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
@@ -302,9 +306,8 @@
 			"if_multiple_trains"
 			{
 				"xpos"		"13"
-				"ypos"		"43"
-				"wide"		"30"
-				"tall"		"30"
+				"ypos"		"44"
+				
 			}
 		}
 
@@ -315,8 +318,8 @@
 			"xpos"			"26"
 			"ypos"			"117"
 			"zpos"			"1"
-			"wide"			"30"
-			"tall"			"30"
+			"wide"			"15"
+			"tall"			"23"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"0"
@@ -340,8 +343,8 @@
 			{
 				"xpos"		"13"
 				"ypos"		"71"
-				"wide"		"30"
-				"tall"		"30"
+				"wide"		"15"
+				"tall"		"23"
 			}
 		}
 
@@ -374,11 +377,11 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"Speed_Backwards"
-			"xpos"			"23"
-			"ypos"			"76"
+			"xpos"			"25"
+			"ypos"			"89"
 			"zpos"			"2"
-			"wide"			"35"
-			"tall"			"34"
+			"wide"			"o0.5"
+			"tall"			"p0.025"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
@@ -390,17 +393,17 @@
 
 			"if_multiple_trains"
 			{
-				"xpos"			"12"
+				"xpos"		"17"
 			}
 
 			"if_multiple_trains_top"
 			{
-				"ypos"		"42"
+				"ypos"		"46"
 			}
 
 			"if_multiple_trains_bottom"
 			{
-				"ypos"		"80"
+				"ypos"		"79"
 			}
 		}
 
@@ -438,9 +441,9 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"CapNumPlayers"
-			"font"			"FUTURA_BOLD_12"
-			"xpos"			"33"
-			"ypos"			"66"
+			"font"			"UAV_8"
+			"xpos"			"20"
+			"ypos"			"78"
 			"zpos"			"5"
 			"wide"			"15"
 			"tall"			"8"
@@ -455,7 +458,7 @@
 
 			"if_multiple_trains"
 			{
-				"xpos"		"20"
+				"xpos"		"21"
 				"wide"		"18"
 				"tall"		"10"
 				"textinsetx"	"-10"
@@ -463,7 +466,7 @@
 
 			"if_multiple_trains_top"
 			{
-				"ypos"		"44"
+				"ypos"		"47"
 			}
 
 			"if_multiple_trains_bottom"
