@@ -5,9 +5,9 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"			"ObjectiveStatusMultipleEscort"
 		"xpos"				"0"
-		"ypos"				"0"
+		"ypos"				"r80"
 		"wide"				"f0"
-		"tall"				"480"
+		"tall"				"150"
 		"visible"			"1"
 		"enabled"			"1"
 	}
@@ -17,18 +17,18 @@
 		"ControlName"		"CTFHudEscort"
 		"fieldName"			"BlueEscortPanel"
 		"xpos"				"0"
-		"ypos"				"r150"
+		"ypos"				"0"
 		"zpos"				"220"
 		"wide"				"f0"
-		"tall"				"200"
+		"tall"				"150"
 		"visible"			"1"
 		"enabled"			"1"
 		"progress_xpos"		"79"
-		"progress_wide"		"270"
+		"progress_wide"		"300"
 
-		"if_blue_is_top"
+		"if_red_is_top"
 		{
-			"ypos"			"r162"
+			"ypos"			"s0.1"
 		}
 	}
 
@@ -37,18 +37,18 @@
 		"ControlName"		"CTFHudEscort"
 		"fieldName"			"RedEscortPanel"
 		"xpos"				"0"
-		"ypos"				"r150"
+		"ypos"				"0"
 		"zpos"				"220"
 		"wide"				"f0"
-		"tall"				"200"
+		"tall"				"150"
 		"visible"			"1"
 		"enabled"			"1"
 		"progress_xpos"		"79"
-		"progress_wide"		"270"
+		"progress_wide"		"300"
 
-		"if_red_is_top"
+		"if_blue_is_top"
 		{
-			"ypos"			"r162"
+			"ypos"			"s0.1"
 		}
 	}
 }
