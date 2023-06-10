@@ -4,13 +4,19 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"HudWeaponAmmoBG"
+		
 		"xpos"			"r170"
 		"ypos"			"r116"
 		"zpos"			"-4"
 		"wide"			"100"
 		"tall"			"100"
+		
+		"xpos_minmode"	"r100"
+		"ypos_minmode"	"r80"
+		"wide_minmode"	"80"
+		"tall_minmode"	"80"
+		
 		"visible"		"0"
-		"visible_minmode"	"0"
 		"enabled"		"0"
 		"image"			"replay/thumbnails/am_bg_red"
 		"scaleImage"		"1"
@@ -22,13 +28,19 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"HudWeaponAmmoBG2"
-		"xpos"			"r260"
-		"ypos"			"r80"
+		
+		"xpos"			"cs0.2"
+		"ypos"			"r100"
 		"zpos"			"-5"
-		"wide"			"100"
-		"tall"			"25"
+		"wide"			"150"
+		"tall"			"35"
+		
+		"xpos_minmode"			"r210"
+		"ypos_minmode"			"r60"
+		"wide_minmode"			"125"
+		"tall_minmode"			"28"
+		
 		"visible"		"1"
-		"visible_minmode"		"0"
 		"enabled"		"1"
 		"image"			"replay/thumbnails/ammo_underbar"
 		"scaleImage"		"1"
@@ -50,17 +62,24 @@
 		"teambg_2"		"replay/thumbnails/lowammo"
 		"teambg_3"		"replay/thumbnails/lowammo"
 	}
+	
 
 	"AmmoInClip"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClip"
+		"font"			"ZH_51"
 		"fgcolor"		"Ammo Clip"
-		"xpos"			"r245"
+		
+		"xpos"			"cs0.2"
 		"ypos"			"r140"
 		"zpos"			"5"
-		"wide"			"60"
+		"wide"			"100"
 		"tall"			"100"
+		
+		"xpos_minmode"			"r350"
+		"ypos_minmode"			"r100"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"east"
@@ -70,16 +89,19 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClipShadow"
+		"font"			"ZHO_56"
 		"fgcolor"		"Ammo Clip Shadow"
-		"xpos"			"-2"
-		"ypos"			"-2"
-		"zpos"			"5"
-		"wide"			"60"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"6"
+		"wide"			"100"
 		"tall"			"100"
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"east"
 		"labelText"		"%Ammo%"
+		"textinsetx"	"1"
+		
 
 		"pin_to_sibling"		"AmmoInClip"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -90,12 +112,21 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserve"
+		"font"			"ZH_21"
 		"fgcolor"		"Ammo Reserve"
-		"xpos"			"r180"
-		"ypos"			"r130"
+		
+		"xpos"			"cs2.5"
+		"ypos"			"r132"
 		"zpos"			"7"
-		"wide"			"60"
+		"wide"			"50"
 		"tall"			"100"
+		
+				
+		"xpos_minmode"	"r145"
+		"ypos_minmode"	"r96"
+		"wide_minmode"	"200"
+		"tall_minmode"	"100"
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"textAlignment"	"west"
@@ -105,12 +136,16 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserveShadow"
+		"font"			"ZHO_24"
 		"fgcolor"		"Ammo Reserve Shadow"
-		"xpos"			"-2"
-		"ypos"			"-2"
-		"zpos"			"7"
+		
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"8"
 		"wide"			"f0"
 		"tall"			"100"
+
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"textAlignment"	"west"
@@ -125,12 +160,21 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClip"
+		"font"			"ZH_51"
 		"fgcolor"		"Ammo Clip"
-		"xpos"			"r245"
+		
+		"xpos"			"cs0.2"
 		"ypos"			"r140"
-		"zpos"			"5"
-		"wide"			"100"
+		"zpos"			"4"
+		"wide"			"150"
 		"tall"			"100"
+		
+		"xpos_minmode"	"r220"
+		"ypos_minmode"	"r100"
+		"wide_minmode"	"150"
+		"tall_minmode"	"100"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"textAlignment"	"center"
@@ -140,11 +184,12 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClipShadow"
+		"font"			"ZHO_56"
 		"fgcolor"		"Ammo Clip Shadow"
-		"xpos"			"-2"
-		"ypos"			"-2"
-		"zpos"			"4"
-		"wide"			"100"
+		"xpos"			"-1"
+		"ypos"			"-1"
+		"zpos"			"5"
+		"wide"			"150"
 		"tall"			"100"
 		"visible"		"0"
 		"enabled"		"1"

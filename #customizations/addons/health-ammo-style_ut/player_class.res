@@ -5,8 +5,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerClass"
-		"xpos"			"cs-0.15"
-		"ypos"			"0"
+		"xpos"			"s-0.05"
+		"ypos"			"5"
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"480"
@@ -17,15 +17,18 @@
 	{
 		"ControlName"	"CTFClassImage"
 		"fieldName"		"PlayerStatusClassImage"
-		"xpos"			"85"
-		"xpos_minmode"	"30"
-		"ypos"			"r120"
-		"ypos_minmode"	"r60"
+		
+		"xpos"			"80"
+		"ypos"			"r125"
 		"zpos"			"2"
-		"wide"			"80"
-		"wide_minmode"	"60"
-		"tall"			"80"
-		"tall_minmode"	"60"
+		"wide"			"90"
+		"tall"			"90"
+		
+		"xpos_minmode"	"30"
+		"ypos_minmode"	"r80"
+		"wide_minmode"	"65"
+		"tall_minmode"	"65"
+
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/class_scoutred"
@@ -41,15 +44,18 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"PlayerStatusSpyOutlineImage"
+		
 		"xpos"			"3"
 		"ypos"			"r67"
-		"xpos_minmode"	"-5"
-		"ypos_minmode"	"r44"
 		"zpos"			"7"
 		"wide"			"55"
 		"tall"			"55"
+		
+		"xpos_minmode"	"-5"
+		"ypos_minmode"	"r44"
 		"wide_minmode"	"27"
 		"tall_minmode"	"27"
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/class_spy_outline"
@@ -59,14 +65,19 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"PlayerStatusClassImageBG"
+		
 		"xpos"			"70"
-		"xpos_minmode"	"9999"
 		"ypos"			"r116"
 		"wide"			"100"
 		"tall"			"100"
-		"visible"		"0"
+		
+		"xpos_minmode"	"20"
+		"ypos_minmode"	"r80"
+		"wide_minmode"	"80"
+		"tall_minmode"	"80"
+		
+		"visible"		"1"
 		"enabled"		"1"
-		"enabled_minmode"	"0"
 		"image"			"replay/thumbnails/classframe_red"
 		"scaleImage"	"1"
 		"teambg_2"		"replay/thumbnails/classframe_red"
@@ -78,14 +89,19 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classmodelpanelBG"
+		
 		"xpos"			"70"
-		"xpos_minmode"	"9999"
 		"ypos"			"r116"
 		"wide"			"100"
 		"tall"			"100"
+		
+		"xpos_minmode"	"20"
+		"ypos_minmode"	"r80"
+		"wide_minmode"	"80"
+		"tall_minmode"	"80"
+		
 		"visible"		"0"
 		"enabled"		"1"
-		"enabled_minmode"	"0"
 		"image"			"replay/thumbnails/classframe_red"
 		"scaleImage"	"1"
 		"teambg_2"		"replay/thumbnails/classframe_red"
@@ -95,12 +111,18 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"ClassBGCover"
+		
 		"xpos"			"70"
-		"xpos_minmode"	"9999"
 		"ypos"			"r116"
 		"zpos"			"3"
 		"wide"			"100"
 		"tall"			"100"
+		
+		"xpos_minmode"	"20"
+		"ypos_minmode"	"r80"
+		"wide_minmode"	"80"
+		"tall_minmode"	"80"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"enabled_minmode"	"0"
@@ -114,15 +136,18 @@
 	{
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"classmodelpanel"
+		
 		"xpos"			"40"
-		"xpos_minmode"	"40"
 		"ypos"			"r185"
-		"ypos_minmode"	"r145"
 		"zpos"			"2"
 		"wide"			"150"
-		"wide_minmode"	"150"
 		"tall"			"150"
-		"tall_minmode"	"150"
+		
+		"xpos_minmode"	"8"
+		"ypos_minmode"	"r135"
+		"wide_minmode"	"100"
+		"tall_minmode"	"120"
+
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -217,7 +242,7 @@
 			{
 				"fov"			"30"
 				"angles_x"		"-10"
-				"angles_y"		"195"
+				"angles_y"		"155"
 				"angles_z"		"-5"
 				"origin_x"		"140"
 				"origin_y"		"0"
