@@ -1386,4 +1386,17 @@
 	HudTrainingMsg		{ }
 	TrainingComplete	{ }
 	AnnotationsPanel	{ }
+	
+	
+	"CurrencyStatusPanel"
+	{
+		"ControlName"		"CCurrencyStatusPanel"
+		"fieldName"			"CurrencyStatusPanel"
+		"xpos"				"cs-1.1"
+		"ypos"				"r80"
+		"wide"				"100"
+		"tall"				"20"
+		"visible" 			"1"
+		"enabled" 			"1"
+	}
 }
