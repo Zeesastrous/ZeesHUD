@@ -1,3 +1,5 @@
+## THIS HUD IS GROSSLY UNOPTIMIZED AND CAN TANK YOUR PERFORMANCE. USE AT YOUR OWN RISK
+
 # ZeesHUD
 The (in)famous TF2 HUD that looks like Persona 5's UI.
 Originally made in late 2020 as a quarantine project and a 1k subscribers special to my channel.
