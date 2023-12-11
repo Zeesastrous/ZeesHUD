@@ -569,7 +569,7 @@
 			"defaultbgcolor_override"	"Black"
 			"selectedfgcolor_override"	"Black"
 			"selectedbgcolor_override"	"White"
-			"maxchars"		"18"
+			"maxchars"		"20"
 
 			"consume_mode"
 			{
