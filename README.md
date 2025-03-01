@@ -1,5 +1,5 @@
 # February 2025 Forewarning
-This is a HUD I made in 2020. I originally wanted to make this HUD as a way to get attention on my videos, but due to circumstances that has lead to me being at the receiving end of abuse and that abuse turning into my abuser publicly lying about me, **I wish that you respect my desires for this HUD not be shared elsewhere or used**. Obviously I can't stop you from using it, but I would like not to see you use this HUD in public. I'd like to be able watch TF2 streams without seeing my HUD and being reminded of the personal hell I went through. 
+This is a HUD I made in 2020. I originally wanted to make this HUD as a way to get attention on my videos, but due to circumstances that has lead to me being at the receiving end of abuse and that abuse turning into my abuser publicly lying about me, **I wish that you respect my desires for this HUD not to be used or shared**. Obviously I can't stop you from using it, but I would like not to see you use this HUD in public. I'd like to be able watch TF2 streams without seeing my HUD and being reminded of the personal hell I went through. 
 
 If you use this HUD as a base to make it your own, or fork your own edits, I encourage you to do so.
 
