@@ -734,7 +734,7 @@
 		"zpos"			"7"
 		"wide"			"26"
 		"tall"			"26"
-		"visible"		"1"y
+		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"
 		"image"			"../Effects/powerup_supernova_hud"
