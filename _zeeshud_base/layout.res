@@ -528,19 +528,23 @@
 
 	HudCloseCaption
 	{
-		"fieldName" 		"HudCloseCaption"
-		"visible"			"1"
-		"enabled"			"1"
-		"xpos"				"c205"
-		"ypos"				"302"
-		"wide"				"150"
-		"tall"				"60"
-		"BgAlpha"			"0"
-		"GrowTime"			"0.25"
+		"fieldName" "HudCloseCaption"
+		"visible"	"1"
+		"enabled"	"1"
+		"xpos"		"c-250"
+		"ypos"		"276"	[$WIN32]
+		"ypos"		"236"	[$X360]
+		"wide"		"500"
+		"tall"		"136"	[$WIN32]
+		"tall"		"176"	[$X360]
+
+		"BgAlpha"	"0"
+
+		"GrowTime"		"0.25"
 		"ItemHiddenTime"	"0.2"
 		"ItemFadeInTime"	"0.15"
 		"ItemFadeOutTime"	"0.3"
-		"topoffset"			"0"
+		"topoffset"		"0"
 	}
 
 	HudHistoryResource
