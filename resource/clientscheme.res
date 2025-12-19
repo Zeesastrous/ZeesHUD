@@ -1,4 +1,5 @@
 #base "../#customizations/custom_colors.res"
+#base "../#customizations/addons/_enabled/vanilla_captions/clientscheme_fonts.res"
 
 #base "scheme/clientscheme_borders.res"
 #base "scheme/clientscheme_colors.res"
