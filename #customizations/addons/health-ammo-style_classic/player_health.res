@@ -62,7 +62,7 @@
 		"enabled"		"1"
 		"image"			"replay/thumbnails/hp_bg_under"
 		"scaleImage"		"1"
-		
+		"drawcolor"		"52 50 52"
 		"pin_to_sibling"		"PlayerStatusHealthImageBG3"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		"pin_to_sibling_corner"	"PIN_TOPLEFT"
